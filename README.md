@@ -76,9 +76,9 @@ Desain aplikasi dibuat menggunakan **Figma** dengan pendekatan UI yang minimalis
 - Riwayat — tersimpan otomatis, ada tombol hapus riwayat
 - AI — bisa scan soal perhitungan atau mengambil gambar soal perhitungan dari galeri
 
-| Splash Screen | Calculator | Tombol operasi Hitung lengkap | Riwayat | Hapus Riwayat | Notifikasi Hapus Riwayat | Tampilan setelah Hapus Riwayat | Info aplikasi | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img width="412" height="917" alt="Android Compact - 68" src="https://github.com/user-attachments/assets/4d0bc02b-3b3b-4bd8-850b-76211782d0db" />| <img width="412" height="917" alt="Android Compact - 8 (1)" src="https://github.com/user-attachments/assets/c05107fa-3a7e-4cd6-a4a2-1af7c9f21a9d" /> | <img width="412" height="917" alt="Android Compact - 11 (1)" src="https://github.com/user-attachments/assets/c9ae171f-e131-4cba-9d12-42463d242912" />| <img width="412" height="917" alt="Android Compact - 13 (1)" src="https://github.com/user-attachments/assets/ef69b3e7-f7d4-43a7-a35e-0c61ef430b9c" />|<img width="412" height="917" alt="Android Compact - 69" src="https://github.com/user-attachments/assets/8a5cc9ec-1ea4-4a4d-8972-5430464afc16" />|  <img width="412" height="917" alt="Android Compact - 14" src="https://github.com/user-attachments/assets/d5fedcea-b0f4-45fa-8765-02912fbd4881" />| />| />|
+| Splash Screen | Calculator | Tombol operasi Hitung lengkap | Riwayat | Notifikasi Hapus Riwayat | Tampilan setelah Hapus Riwayat | Tampilan AI | Info aplikasi | Tampilan Info aplikasi |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img width="412" height="917" alt="Android Compact - 68" src="https://github.com/user-attachments/assets/4d0bc02b-3b3b-4bd8-850b-76211782d0db" />| <img width="412" height="917" alt="Android Compact - 8 (1)" src="https://github.com/user-attachments/assets/c05107fa-3a7e-4cd6-a4a2-1af7c9f21a9d" /> | <img width="412" height="917" alt="Android Compact - 11 (1)" src="https://github.com/user-attachments/assets/c9ae171f-e131-4cba-9d12-42463d242912" />| <img width="412" height="917" alt="Android Compact - 13 (1)" src="https://github.com/user-attachments/assets/ef69b3e7-f7d4-43a7-a35e-0c61ef430b9c" />|<img width="412" height="917" alt="Android Compact - 69" src="https://github.com/user-attachments/assets/8a5cc9ec-1ea4-4a4d-8972-5430464afc16" />|  <img width="412" height="917" alt="Android Compact - 14" src="https://github.com/user-attachments/assets/d5fedcea-b0f4-45fa-8765-02912fbd4881" />| />| />| />|
 
 ---
 
