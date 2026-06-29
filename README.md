@@ -24,6 +24,8 @@
 
 **Link Clickup bagian Gantt(%) : https://sharing.clickup.com/90181803667/g/h/2kzm27mk-218/e5383029973a578**
 
+**Link Video Demonstrasi Aplikasi : **
+
 ---
 
 ## Deskripsi Aplikasi
@@ -41,7 +43,7 @@
 | **Hapus Riwayat** | Fitur untuk membersihkan riwayat perhitungan |
 | **Multi Bahasa** | Mendukung tampilan Bahasa Indonesia |
 
-## Fitur 
+## Fitur Tambahan
 
 | Fitur | Deskripsi |
 |-------|-----------|
