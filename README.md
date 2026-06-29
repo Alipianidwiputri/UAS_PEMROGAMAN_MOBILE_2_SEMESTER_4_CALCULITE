@@ -41,6 +41,14 @@
 | **Hapus Riwayat** | Fitur untuk membersihkan riwayat perhitungan |
 | **Multi Bahasa** | Mendukung tampilan Bahasa Indonesia |
 
+## Fitur 
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| **AI Assistant** | Asisten AI untuk membantu kebutuhan kalkulasi yang lebih kompleks |
+| **Hapus Riwayat** | Fitur untuk membersihkan riwayat perhitungan |
+| **Notifikasi Hapus Riwayat** | Fitur untuk memastikan pengguna ingin membersihkan riwayat perhitungan |
+| **Multi Bahasa** | Mendukung tampilan Bahasa Indonesia |
 ---
 ## Desain StoryBoard
 
