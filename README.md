@@ -16,7 +16,7 @@
 
 ## Link
 
-**Link UX Prototype :figma.com/proto/qnGrKos7rkqQdbL4KuFhAE/Untitled?node-id=0-1&p=f&t=xceD1zAqGZcBqowG-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A92**
+**Link UX Prototype :https://figma.com/proto/qnGrKos7rkqQdbL4KuFhAE/Untitled?node-id=0-1&p=f&t=xceD1zAqGZcBqowG-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A92**
 
 **Link Clickup bagian List : https://sharing.clickup.com/90181803667/l/h/6-901811852258-1/dcef20bd7484451**
 
