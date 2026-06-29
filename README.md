@@ -83,12 +83,12 @@ Desain aplikasi dibuat menggunakan **Figma** dengan pendekatan UI yang minimalis
 
  **Clickup di List**
 
-<img width="1689" height="716" alt="image" src="https://github.com/user-attachments/assets/05b12ee5-fe90-4e3b-ac58-4fa2db557a60" />
+<img width="836" height="291" alt="image" src="https://github.com/user-attachments/assets/3984a5bf-a39d-4c29-93f6-08fa98f90fca" />
 
 
 **Clickup Di Gantt(Persen%)**
 
-<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/ab079146-ebf7-437a-be05-998ad516b67b" />
+<img width="695" height="344" alt="image" src="https://github.com/user-attachments/assets/73610e19-9d02-4f2d-a947-bb7b524ab04b" />
 
 
 
