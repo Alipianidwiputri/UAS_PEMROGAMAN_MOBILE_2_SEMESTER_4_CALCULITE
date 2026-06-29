@@ -24,7 +24,7 @@
 
 **Link Clickup bagian Gantt(%) : https://sharing.clickup.com/90181803667/g/h/2kzm27mk-218/e5383029973a578**
 
-**Link Video Demonstrasi Aplikasi : **
+**Link Video Demonstrasi Aplikasi & Figma UX : https://drive.google.com/drive/folders/1FUqtxRsvpbuCzteYe3h4nwbtAS9zKYU4?usp=sharing**
 
 ---
 
