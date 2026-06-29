@@ -4,7 +4,7 @@
 
 **NIM : 312410691**
 
-**Kelas : TI 24 A2**
+**Kelas : I241A**
 
 **Mata Kuliah : Pemrograman Mobile 2**
 
